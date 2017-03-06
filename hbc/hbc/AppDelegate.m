@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
      NSLog(@"%@",@"one repository");
+     NSLog(@"%@",@"hello world");
     
     return YES;
 }
